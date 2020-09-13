@@ -1,2 +1,1 @@
-# Uniant-Software-License-Agreement
-Uniant ソフトウェアライセンス契約（USLA）
+# Uniant ソフトウェアライセンス契約（USLA）
